@@ -19,7 +19,7 @@ FinMate is an AI-powered chatbot developed during Finnovate Hackathon 2024 at II
 ## Project Details
 
 - **Hackathon:** Finnovate Hackathon 2024, IIT Gandhinagar
-- **Team:** Pranjal Gaur and collaborators
+- **Team:** Pranjal Gaur, Rishi Patel and Nakshatra Goshwami
 
 ## Usage
 
