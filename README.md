@@ -1,32 +1,32 @@
 # FinMate - AI Chatbot for Bank Users
 
-FinMate, developed at Finnovate Hackathon 2024, IIT Gandhinagar, is an AI chatbot aiding bank users with queries, loan checks, form downloads, and site navigation. Using Elasticsearch, tokenization, Google Cloud for translation and voice APIs, Next.js, Flask, and Python, it enhances fintech services with AI-driven efficiency.
+FinMate is an AI-powered chatbot developed during Finnovate Hackathon 2024 at IIT Gandhinagar to assist bank users with queries, loan checks, form downloads, and site navigation. It leverages Elasticsearch for query recognition, tokenization for efficient processing, and integrates Google Cloud services like Translate and Voice API for multilingual support and speech recognition. Built with Next.js for the frontend and Flask, Python for the backend, FinMate also scrapes web data to provide relevant information, enhancing user experience in fintech services.
 
 ## Features
 
-- User Query Recognition using Elasticsearch and tokenization.
-- Integration of Google Cloud services for speech recognition and translation.
-- Web scraping to provide form download links and website URLs.
+- **Query Assistance:** Answering user queries and guiding through banking processes.
+- **Loan Eligibility Check:** Helping users check their eligibility for loans.
+- **Form Downloads:** Providing downloadable forms as per user requests.
+- **Website Navigation:** Directing users to required bank websites.
 
 ## Technologies Used
 
-- Frontend: Next.js
-- Backend: Flask, Python
-- Database: Elasticsearch
-- Cloud Services: Google Cloud (Translate, Voice API)
+- **Frontend:** Next.js
+- **Backend:** Flask, Python
+- **Database:** Elasticsearch
+- **Cloud Services:** Google Cloud (Translate, Voice API)
 
 ## Project Details
 
-- Developed during Finnovate Hackathon 2024 at IIT Gandhinagar.
-- Team Members: Pranjal Gaur and team.
+- **Hackathon:** Finnovate Hackathon 2024, IIT Gandhinagar
+- **Team:** Pranjal Gaur and collaborators
 
 ## Usage
 
-To explore FinMate and interact with its functionalities, clone the repository and follow the instructions provided.
+Clone the repository and follow the setup instructions to deploy and interact with FinMate.
 
 ## Links
 
-- [Project Repository](https://github.com/pranjal15195gaur/FinMate)
-- [Finnovate Hackathon 2024](https://example.com)
+- [Project Repository](https://github.com/pranjal15195gaur/FInmate---AI-Assistance-Chatbot)
 
-Feel free to explore the project, provide feedback, and contribute!
+Explore the project, provide feedback, and contribute to its development!
