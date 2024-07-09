@@ -1,0 +1,3 @@
+[submodule "Finamate-Backend"]
+	path = Finamate-Backend
+	url = https://github.com/programmingwithrp/FinTech.git
