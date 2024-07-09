@@ -1,3 +1,6 @@
 [submodule "Finamate-Backend"]
 	path = Finamate-Backend
 	url = https://github.com/programmingwithrp/FinTech.git
+[submodule "Finmate-Frontend"]
+	path = Finmate-Frontend
+	url = https://github.com/programmingwithrp/FInTech-frontend.git
