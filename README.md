@@ -23,16 +23,18 @@ FinMate is an AI-powered chatbot developed during Finnovate Hackathon 2024 at II
 
 
 ### FinMate Interface
-![FinMate Interface](https://github.com/yourusername/yourrepository/blob/main/path/to/photo9.jpg)
-![FinMate Interface](https://github.com/yourusername/yourrepository/blob/main/path/to/photo10.jpg)
+![FinMate Interface](https://github.com/pranjal15195gaur/Finmate-An-AI-Assistance-Chatbot/blob/main/Images/Interface%201.jpg)
+![FinMate Interface](https://github.com/pranjal15195gaur/Finmate-An-AI-Assistance-Chatbot/blob/main/Images/Interface%202.jpg)
+![FinMate Interface](https://github.com/pranjal15195gaur/Finmate-An-AI-Assistance-Chatbot/blob/main/Images/interface%203.jpg)
+
 
 ### Team Working
-![Team Working](https://github.com/yourusername/yourrepository/blob/main/path/to/photo11.jpg)
-![Team Working](https://github.com/yourusername/yourrepository/blob/main/path/to/photo12.jpg)
+![Team Working](https://github.com/pranjal15195gaur/Finmate-An-AI-Assistance-Chatbot/blob/main/Images/Team%20working%201.jpg)
+![Team Working](https://github.com/pranjal15195gaur/Finmate-An-AI-Assistance-Chatbot/blob/main/Images/team%20working%202.jpg)
 
 ### Presentation
-![Presentation](https://github.com/yourusername/yourrepository/blob/main/path/to/photo13.jpg)
-![Presentation](https://github.com/yourusername/yourrepository/blob/main/path/to/photo14.jpg)
+![Presentation](https://github.com/pranjal15195gaur/Finmate-An-AI-Assistance-Chatbot/blob/main/Images/Presentation.jpg)
+
 
 ## Links
 
