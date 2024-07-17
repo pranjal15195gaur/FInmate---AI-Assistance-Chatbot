@@ -39,6 +39,6 @@ FinMate is an AI-powered chatbot developed during Finnovate Hackathon 2024 at II
 ## Links
 
 - [Project Repository](https://github.com/pranjal15195gaur/FInmate---AI-Assistance-Chatbot)
-- [Presentation Link](https://www.canva.com/design/DAGKVIN0Rds/H3MvbPZ0b82pRSGiZyN-vg/edit?utm_content=DAGKVIN0Rds&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Presentation Link](https://www.canva.com/design/DAGKVIN0Rds/DCgSppGIt4wagHuepovzUQ/view?utm_content=DAGKVIN0Rds&utm_campaign=designshare&utm_medium=link&utm_source=editor#11)
 
 Explore the project, provide feedback, and contribute to its development!
